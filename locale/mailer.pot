@@ -1,0 +1,48 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-04-24 19:29+0900\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: \controllers\components\error_mailer.php:27
+msgid "[%s] An error was occurred"
+msgstr ""
+
+#: \controllers\components\mailer.php:36
+msgid "Specifying email address was wrong: %s"
+msgstr ""
+
+#: \controllers\components\mailer.php:37
+msgid "Template name is required"
+msgstr ""
+
+#: \controllers\components\mailer.php:38
+msgid "From address is required"
+msgstr ""
+
+#: \controllers\components\mailer.php:39
+msgid "To address(es) is required"
+msgstr ""
+
+#: \controllers\components\mailer.php:40
+msgid "The subject of the mail was not found: %s"
+msgstr ""
+
+#: \controllers\components\mailer.php:41
+msgid "Sending email was failed"
+msgstr ""
+
+#: \views\elements\email\text\error.ctp:1
+msgid "The following error happened:"
+msgstr ""
+

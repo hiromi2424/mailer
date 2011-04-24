@@ -1,0 +1,47 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright 2011 hiromi <hiromi2424@gmail.com>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-04-24 18:45+0900\n"
+"PO-Revision-Date: 2011-04-24 19:30+0900\n"
+"Last-Translator: hiromi <tanaka2424@gmail.com>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: \controllers\components\error_mailer.php:27
+msgid "[%s] An error was occurred"
+msgstr "[%s]障害通知"
+
+#: \controllers\components\mailer.php:35
+msgid "Specifying email address was wrong: %s"
+msgstr "指定されたメールアドレスが正しくありません: %s"
+
+#: \controllers\components\mailer.php:36
+msgid "Template name is required"
+msgstr "テンプレートの名前は必須です"
+
+#: \controllers\components\mailer.php:38
+msgid "From address is required"
+msgstr "送信元のアドレスは必須です"
+
+#: \controllers\components\mailer.php:37
+msgid "To address(es) is required"
+msgstr "送信先のアドレスは必須です"
+
+#: \controllers\components\mailer.php:38
+msgid "The subject of the mail was not found: %s"
+msgstr "メールの件名が指定されていません: %s"
+
+#: \controllers\components\mailer.php:39
+msgid "Sending email was failed"
+msgstr "メールの送信に失敗しました"
+
+#: \views\elements\email\text\error.ctp:1
+msgid "The following error happened:"
+msgstr "以下のエラーが発生しました:"
+
